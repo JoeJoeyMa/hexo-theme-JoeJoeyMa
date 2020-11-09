@@ -5,7 +5,7 @@
 
 An attractive, exquisite theme for [Hexo]. named "JoeJoeMa" 
 
-[**☞ Live Preview**](http://joejoey.tk/)  |  [**✎ JoeJoeyMa 中文版使用文档**](https://github.com/JoeJoeyMa/hexo-theme-JoeJoeyMa/blob/master/README.cn.md)
+[**☞ Live Preview**](http://joey.gq/)  |  [**✎ JoeJoeyMa 中文版使用文档**](https://github.com/JoeJoeyMa/hexo-theme-JoeJoeyMa/blob/master/README.cn.md)
 
 
 ![Desktop Preview](https://raw.githubusercontent.com/JoeJoeyMa/JoeJoeyMa.github.io/master/gallery/1.JPG)
